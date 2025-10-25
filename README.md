@@ -1,6 +1,6 @@
 # Earthquake Alerter
 
-![Project Overview](schmatics/Circuit_Diagram.png)
+![Diagram](schematics/Circuit_Diagram.png)
 
 A portable earthquake detection system that alerts users to seismic activities using MPU6050 IMU sensor. This project was developed as part of the EE202 Circuit Theory II course at TED University.
 
