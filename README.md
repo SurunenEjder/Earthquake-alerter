@@ -37,3 +37,5 @@ The Earthquake Alerter is a simple, cost-effective seismic sensor designed for w
 ## 🔌 Circuit Schematic
 
 ### MPU6050 Pinout:
+
+![Pinout](media/Pinout.png)
